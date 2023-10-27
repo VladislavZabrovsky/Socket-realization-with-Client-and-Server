@@ -1,0 +1,8 @@
+[2023-10-27 - 22:33:20] - INFO - User committed a move
+[2023-10-27 - 22:33:20] - INFO - Server committed a move
+[2023-10-27 - 22:33:23] - INFO - User committed a move
+[2023-10-27 - 22:33:23] - INFO - Server committed a move
+[2023-10-27 - 22:33:30] - INFO - User committed an invalid move
+[2023-10-27 - 22:33:38] - INFO - User committed an invalid move
+[2023-10-27 - 22:33:40] - INFO - User asked info about labwork
+[2023-10-27 - 22:33:43] - INFO - Client quit the game
