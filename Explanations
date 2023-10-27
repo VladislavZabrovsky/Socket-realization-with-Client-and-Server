@@ -1,0 +1,7 @@
+This is simplified version of Tic-Tac-Toe game with 5X5 board.
+To launch the code,either use terminal of virtual enviroment(server and client code should be in the same project)
+or launch both codes from 2 cmd windows(client and server still should be in the same directory)
+Example:
+python tcp_server.py
+
+python tcp_client.py
